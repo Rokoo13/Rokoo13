@@ -1,6 +1,13 @@
 ### Hey 👋 I'm Gabriel
 
-I'm an Android application developer, my main skills are, project managamente using Agile methodology and developing this projects using languages and tools, such as Kotlin, Java, SQLite, Firebase or Retrofit.
+I'm an Android application developer, my main skills are, project managamente using Agile methodology and developing this projects using languages and tools, such as:
+<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+
+
+📫 How to reach me: gabrielsantamaria1997@gmail.com
 
 <p align="center" dir="auto">
 <a href="https://www.linkedin.com/in/gabriel-santamaria-poza/" rel="nofollow">
