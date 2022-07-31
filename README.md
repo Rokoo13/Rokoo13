@@ -1,10 +1,15 @@
 ### Hey 👋 I'm Gabriel
 
 I'm an Android application developer, my main skills are, project managamente using Agile methodology and developing this projects using languages and tools, such as:<br>
+<p align="center" dir="auto">
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<br>
+</p>
+<p align="center" dir="auto">
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+</p>
 
 <p align="center" dir="auto">
 📫 How to reach me: gabrielsantamaria1997@gmail.com <br>
